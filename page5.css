@@ -1,0 +1,25 @@
+/* CSS Document */
+
+corps {
+   
+  couleur de fond :#FFC;
+  affichage : flexible ;
+  justifier-contenu : centrer ;
+  align-items : center ;
+  flex-direction : colonne ;
+}
+
+tableau {
+  border-collapse : effondrement ;
+  couleur de fond : jaune ;
+}
+
+td,
+e {
+  bordure : 1 pixel rose;
+  rembourrage : 13px ;
+}
+
+h1 {
+  marge : 27px ;
+}
